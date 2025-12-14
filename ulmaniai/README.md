@@ -12,7 +12,7 @@
 
 ## 🚨 문제 상황
 
-[채권담보 이미지]
+<img width="1203" height="692" alt="Image" src="https://github.com/user-attachments/assets/4a665a1e-ca9c-44c8-b282-53201f6d3105" />
 
 ### 복잡한 UI 요구사항
 
