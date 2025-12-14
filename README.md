@@ -30,7 +30,7 @@
 
 ### 얼마니 (부동산 시세정보 조회 서비스)
 
-[이미지: 얼마니 서비스 스크린샷]
+<img width="1438" height="772" alt="Image" src="https://github.com/user-attachments/assets/4efc0226-32db-4e28-b77e-539161dd7fb4" />
 
 **채권담보 분석 서비스 신규 개발**
 
